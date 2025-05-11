@@ -40,10 +40,6 @@ Welcome! I'm Paulo Henrique, a passionate fullstack developer based in Caruaru, 
 - Worked autonomously and continuously learned new stacks and technologies.
 - Developed critical thinking and problem-solving skills through practical projects.
 
-### 🔹 Grupo Provider – Support Agent (INSS Contract) (2023 – 2025)
-- Met performance and quality goals through proactive communication and adaptability.
-- Demonstrated responsibility and punctuality under high-pressure workflows.
-
 ### 🔹 RecicloHub (UFPE & SEMAS-PE Project) (2025 – Present)
 - Building innovative solutions with a multidisciplinary team.
 - Applied MVP, prototyping, validation, and AI to enhance project outcomes.
